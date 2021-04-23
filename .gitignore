@@ -66,3 +66,5 @@
 /lib/Windows/VC12/libcserialport/libcserialport/*
 /lib/Windows/VC12/libcserialport/libcserialport/*.user
 /Demo/Comm/*.suo
+src/.vs/
+src/Debug/

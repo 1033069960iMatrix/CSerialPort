@@ -30,7 +30,7 @@ namespace itas109
  * @brief the CSerialPort class 串口类库
  * @see reference 引用 CSerialPortBase
  */
-class DLL_EXPORT CSerialPort : public has_slots<>
+class CSerialPort : public has_slots<>
 {
 public:
     /**
